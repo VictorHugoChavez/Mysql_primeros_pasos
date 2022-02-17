@@ -1,0 +1,4 @@
+/*
+consultas de agrupamiento
+Las utilizamos para agrupar resultados que tengan el mismo valor
+*/
